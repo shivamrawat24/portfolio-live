@@ -6,8 +6,8 @@ const socials = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'shivam@example.com',
-    href: 'mailto:shivam@example.com',
+    value: 'shivamrawat0985@gmail.com',
+    href: 'mailto:shivamrawat0985@gmail.com',
     color: 'text-accent',
     bg: 'bg-accent/10',
     border: 'border-accent/20',
@@ -15,7 +15,7 @@ const socials = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/shivamrawat',
+    value: 'https://www.linkedin.com/in/shivamrawat629',
     href: 'https://linkedin.com',
     color: 'text-accent2',
     bg: 'bg-accent2/10',
@@ -24,7 +24,7 @@ const socials = [
   {
     icon: Github,
     label: 'GitHub',
-    value: 'github.com/shivamrawat',
+    value: 'github.com/shivamrawat24',
     href: 'https://github.com',
     color: 'text-accent3',
     bg: 'bg-accent3/10',
