@@ -15,7 +15,7 @@ const socials = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'https://www.linkedin.com/in/shivamrawat629',
+    value: 'www.linkedin.com/in/shivamrawat629',
     href: 'https://linkedin.com',
     color: 'text-accent2',
     bg: 'bg-accent2/10',
